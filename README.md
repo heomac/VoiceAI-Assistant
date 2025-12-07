@@ -30,4 +30,4 @@ Bu proje, sesli yanıt ve metin işleme yeteneklerine sahip bir Python uygulamas
    cd Voice-Ai.git
 
 ## Geliştiren
-- **Bu Projeyi Bizzat Manigasx Geliştirmiştir.**
+- **Bu Projeyi Bizzat Hüseyin Efe Omaç Geliştirmiştir.**
