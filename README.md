@@ -36,4 +36,5 @@ Bu proje, sesli yanıt ve metin işleme yeteneklerine sahip bir Python uygulamas
 
 ![1acc6bde2d93a3e067d12384848a6fbb](https://github.com/user-attachments/assets/8ebae80e-1d16-41d7-aca0-88bfa46fc55d)
 
+<img width="832" height="1248" alt="Gemini_Generated_Image_vbirlavbirlavbir" src="https://github.com/user-attachments/assets/1cc1bb03-a97b-4453-86dd-9b765e5cbd65" />
 
