@@ -38,3 +38,4 @@ Bu proje, sesli yanıt ve metin işleme yeteneklerine sahip bir Python uygulamas
 
 <img width="832" height="1248" alt="Gemini_Generated_Image_vbirlavbirlavbir" src="https://github.com/user-attachments/assets/1cc1bb03-a97b-4453-86dd-9b765e5cbd65" />
 
+https://www.canva.com/design/DAG7gkXMDdE/3sb6ggxTaFsN234svrZaLQ/view?utm_content=DAG7gkXMDdE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdc13139d28
