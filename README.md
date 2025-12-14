@@ -33,5 +33,6 @@ Bu proje, sesli yanıt ve metin işleme yeteneklerine sahip bir Python uygulamas
 - **Bu Projeyi Bizzat Hüseyin Efe Omaç Geliştirmiştir
 
 <img width="832" height="1248" alt="Gemini_Generated_Image_itkg79itkg79itkg" src="https://github.com/user-attachments/assets/da29670d-9883-4633-a577-77033aac46b8" />
-![0049cf2f5deed7a18a9b802c63d45096](https://github.com/user-attachments/assets/bd35c571-3fb4-433c-9900-141fd20cb37b)
+![1acc6bde2d93a3e067d12384848a6fbb](https://github.com/user-attachments/assets/8ebae80e-1d16-41d7-aca0-88bfa46fc55d)
+
 
